@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="WeChat Win"
+
+# Used for descriptions and window class
+FULL_NAME="WeChat Win"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Users\neolux\scoop\apps\wechat\current\Weixin.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Windows"
+
+# GNOME mimetypes
+MIME_TYPES=""
